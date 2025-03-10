@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://www.google.de/",
+    "https://www.tum.de/",
+    "https://www.bmw.de/de/index.html?clc=1a1mm01dJ1b01br9&&tl=sea-gl-DE_BMW_NC_BRAND%20PURE_DEU_BND_ALO_BMW%20V2023DE%20LO%20BR%20024_PERF_%20_SEAADW-mix-miy-BMW%20%C3%BCbergreifend-sech-BRA_BND_BRAND%20PURE_MULTI_NONE-.-e-bmw-.-.&gad_source=1&gclid=Cj0KCQiAlbW-BhCMARIsADnwasqX0MWefT3ECJDnkKjmbi3D7wUIjNhWZFgp-Glcy762LaOJXf9Yg78aAtOvEALw_wcB&gclsrc=aw.ds"
+  ],
+  "refresh_interval": 2000,
+  "mode": "multi",
+  "slots_per_screen": 3
+}
