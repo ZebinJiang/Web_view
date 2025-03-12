@@ -1,8 +1,11 @@
 {
-  "urls": [
-    "https://www.figma.com/"
+  "pages": [
+    {
+      "title": "figma",
+      "url": "https://www.figma.com/"
+    }
   ],
   "refresh_interval": 50000,
   "mode": "multi",
-  "slots_per_screen": 2
+  "slots_per_screen": 6
 }
